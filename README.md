@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="left">👾 Hi there!</h2>
 
-<!--
-**azdrenymeri/azdrenymeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 align="left">A Software Developer on a perpetual journey of learning and growth.</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/azdrenymeri/azdrenymeri/output/snake.svg" alt="Snake animation" />
+
+###
